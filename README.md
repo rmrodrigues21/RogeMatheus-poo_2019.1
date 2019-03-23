@@ -9,7 +9,6 @@ funções da calculadora (somar e dividir)
 
  
 
-
 - Com quem e como fez? 
 
 
@@ -48,8 +47,8 @@ ainda tenho um pouquinho de dificuldade na lógica, Mas é questão de prática!
   Fiz todo o código.
 
 
-- 
-Com quem e como fez? 
+
+- Com quem e como fez? 
 
 
   Fiz sozinho com a ajuda da vídeo aula e do código da calculadora que era bem parecido.
