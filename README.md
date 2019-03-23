@@ -1,5 +1,5 @@
 ﻿# Trabalhos de POO
-## 1.Calculadora em Python
+## 1. Calculadora em Python
 
 - o que foi feito?
  
@@ -39,3 +39,40 @@ ainda tenho um pouquinho de dificuldade na lógica, Mas é questão de prática!
  
 
 1 hora e meia, tempo corrido.
+
+## 2. Carro em Python
+
+- o que foi feito?
+
+
+  Fiz todo o código.
+
+
+- 
+Com quem e como fez? 
+
+
+  Fiz sozinho com a ajuda da vídeo aula e do código da calculadora que era bem parecido.
+
+
+
+
+- O que aprendeu a fazer? 
+
+  Continuei aprendendo um pouco mais sobre o "init" mas sem muitas novidades, 
+  consegui fazer o código de forma tranquila, por já ter feito a calculadora e ser bem parecido.
+
+
+
+- O que tem dificuldade ainda?
+
+
+  Conseguir desenvolver o código sem muitas dificuldades, a falta de leitura dos erros 
+  ainda é um ponto que preciso melhorar, perco muito tempo tentando identificar o erro simplesmente 
+  porque não tenho a prática de ler as mensagens que aparecem, porém já senti uma melhora entre a calculadora e o carro. No mais, foi bem tranquilo.
+
+
+
+- Quanto tempo levou pra fazer? 
+
+  1 hora.
