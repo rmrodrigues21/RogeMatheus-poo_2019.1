@@ -39,6 +39,7 @@ ainda tenho um pouquinho de dificuldade na lógica, Mas é questão de prática!
 
 1 hora e meia, tempo corrido.
 
+
 ## 2. Carro em Python
 
 - o que foi feito?
@@ -78,19 +79,24 @@ ainda tenho um pouquinho de dificuldade na lógica, Mas é questão de prática!
 
 ## 3. PET
 - o que foi feito?
+
   Fiz todo o código.
 
 - Com quem e como fez?
+
   Fiz a maior parte do código sozinho mas contei com a ajuda de vídeo aula do youtube e com a ajuda de um amigo, quando tinha alguns erros que eu 
   travava e não conseguia sair.
 
 - O que aprendeu a fazer? 
+
   Fui apresentando ao Java, comecei a aprender um pouco da linguagem, dos comandos... aprendi as coisas mais simples como tirar "print", o Scanner,
 To Sting, Class, enfim, os comandos mais simples eu já consegui digerir bem.
 
 - O que tem dificuldade ainda?
+
   Tenho dificuldade na linguagem ainda, por ser nova! mas já consigo ver uma melhora significativa em relação a ler os erros! em pyhton eu tinha 
   essa dificuldade, em java já mudou e consegui achar os erros facilmente (o Intellij ajuda muito!)
 
 - Quanto tempo levou pra fazer?
+
   3 horas.
