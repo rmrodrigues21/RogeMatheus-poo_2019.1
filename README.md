@@ -103,15 +103,19 @@ To Sting, Class, enfim, os comandos mais simples eu já consegui digerir bem.
 
 ## 4. TOPIC
 - O que foi feito?
+
   Fiz todo o código.
 
 - Com quem e como fez?
+
   Fiz uma parte na sala mas a maioria fiz com o auxílio de vídeo aula!
 
 - O que aprendeu a fazer?
+
   Estou aprendendo a linguagem em si ainda, ainda tenho dificuldades em identificar muitas coisas e saber o que cada uma delas faz, porém ta dando certo,
   a questão da prática tem ajudado bastante, aos poucos vou descobrindo e encaixando cada coisa no seu lugar. tive muita facilidade em corrigir os erros
   diferente das questões anteriores onde eu perdia tempo demais pelo simples fato de não ler os erros.
 
 - Quanto tempo levou pra fazer?
+
   2 horas.
