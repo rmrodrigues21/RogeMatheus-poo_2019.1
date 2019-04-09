@@ -119,3 +119,31 @@ To Sting, Class, enfim, os comandos mais simples eu já consegui digerir bem.
 - Quanto tempo levou pra fazer?
 
   2 horas.
+
+## 5. AGIOTA
+
+- O que foi feito?
+
+  Fiz todo o código, algumas partes já consigo fazer sozinho, como as classes, os Strings, os This... porém na grande maioria fiz com o auxílio do código
+  feito em sala.
+
+- Com quem e como fez?
+
+  Fiz com a ajuda de um amigo, de vídeos e do código feito em sala.
+
+- O que aprendeu a fazer?
+
+  O código tinha coisas novas que eu ainda não tinha visto, mas Continuo desenvolvendo o aprendizado na linguagem, já consegui aprender sobre isso que citei acima 
+  e aprendi a identificar os erros de uma maneira melhor.
+
+- O que tem dificuldade ainda?
+
+  ainda estou meio perdido em saber para que algumas coisas servem, saber algumas partes do fluxo do código, alguns comandos, mas acredito que na prática 
+  eu consiga pegar o jeito, tenho me dedicado e tentado aprender apesar da minha dificuldade em programar. Apesar dessas
+  limitacões que ainda tenho, já percebo uma grande melhora em mim na parte de programação, estou orgulhoso! :)
+  
+
+- Quanto tempo levou pra fazer?
+  Algo em torno de 2 horas, acompanhado vídeo e código feito em sala.
+  
+
