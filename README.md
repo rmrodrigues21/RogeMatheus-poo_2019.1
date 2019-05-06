@@ -144,6 +144,6 @@ To Sting, Class, enfim, os comandos mais simples eu já consegui digerir bem.
   
 
 - Quanto tempo levou pra fazer?
-  Algo em torno de 2 horas, acompanhado vídeo e código feito em sala.
+  Algo em torno de 5 horas, acompanhando vídeo e código feito em sala.
   
 
