@@ -133,7 +133,7 @@ To Sting, Class, enfim, os comandos mais simples eu já consegui digerir bem.
 
 - O que aprendeu a fazer?
 
-  O código tinha coisas novas que eu ainda não tinha visto, mas Continuo desenvolvendo o aprendizado na linguagem, já consegui aprender sobre isso que citei acima 
+  O código tinha coisas novas que eu ainda não tinha visto (, mas Continuo desenvolvendo o aprendizado na linguagem, já consegui aprender sobre isso que citei acima 
   e aprendi a identificar os erros de uma maneira melhor.
 
 - O que tem dificuldade ainda?
