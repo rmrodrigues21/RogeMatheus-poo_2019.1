@@ -146,4 +146,47 @@ To Sting, Class, enfim, os comandos mais simples eu já consegui digerir bem.
 - Quanto tempo levou pra fazer?
   Algo em torno de 5 horas, acompanhando vídeo e código feito em sala.
   
+## 6.TWITTER
+
+- O que foi feito?
+
+- Com quem e como fez?
+
+- O que aprendeu a fazer?
+
+- O que tem dificuldade ainda?
+
+
+- Quanto tempo levou pra fazer?
+
+## 7. aGENCIA
+
+- O que foi feito?
+
+- Com quem e como fez?
+
+- O que aprendeu a fazer?
+
+- O que tem dificuldade ainda?
+
+
+- Quanto tempo levou pra fazer?
+
+
+## 8. CONTA SALARIO
+
+- O que foi feito?
+
+- Com quem e como fez?
+
+- O que aprendeu a fazer?
+
+- O que tem dificuldade ainda?
+
+
+- Quanto tempo levou pra fazer?
+
+
+
+
 
