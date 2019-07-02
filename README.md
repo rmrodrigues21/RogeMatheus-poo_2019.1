@@ -150,42 +150,64 @@ To Sting, Class, enfim, os comandos mais simples eu já consegui digerir bem.
 
 - O que foi feito?
 
+  Fiz tudo aquilo que consegui. Criei uma classe usuário que contem as informações de seguidos e seguidores, e o id do mesmo.Onde
+  tem a funçao seguir
+  criei uma classe de sistemas usando o mapa
+
 - Com quem e como fez?
+  Fiz sozinho com a ajuda de videos e tirando duvidas com amigos.
 
 - O que aprendeu a fazer?
+  Foi onde comecei aprender melhor a funçao do mapa e do uml tambem.
 
 - O que tem dificuldade ainda?
+  To bem satisfeito no final da disciplina porque consegui aprender muita coisa. Minha maior dificuldade ainda e a pratica, mas isso
+  e algo que preciso melhorar independente de qualquer coisa.
 
 
 - Quanto tempo levou pra fazer?
+  Cerca de 2 horas e meia.
 
 ## 7. aGENCIA
 
 - O que foi feito?
+  Fiz algumas das funçoes que foram pedidas no exercicio, porem acredito que nao tenha conseguido fazer tudo, nos testes deu alguns
+  erros que nao consegui concertar, mas consegui usar herança e deu certo (fiquei feliz), criei a classe conta, classe cliente e classe
+  agencia, onde acredito que tenha conseguido usar cada uma da maneira correta.
 
 - Com quem e como fez?
+  Sozinho, Mas sempre pedindo o auxilio de um amigo que estuda CC
 
 - O que aprendeu a fazer?
+  Consegui aprender um pouco mais sobre herança, que foi um conteudo que gostei bastante. No mais fui praticando aquilo que fui aprendendo
+  ao longo da disciplina.
 
 - O que tem dificuldade ainda?
+  Tive dificuldade em resolver alguns problemas no codigo.
 
 
 - Quanto tempo levou pra fazer?
+  cerca de 4 horas
 
 
 ## 8. CONTA SALARIO
 
 - O que foi feito?
+  Fiz o codigo, deu algum errinho na hora dos testes que nao consegui revolver tambem, mas consegui ainda mais usar a herança, que como ja disse
+  e um conteudo que gostei bastante, usei muito o "extends" ne... E consegui desenvolver bem o codigo, mas claro ainda com alguma dificuldade.
 
 - Com quem e como fez?
+  Fiz boa parte sozinho, vendo o video, mas em alguns momentos pedi a ajuda de amigos.
 
 - O que aprendeu a fazer?
+  Aperfeiçoei aquilo que ja sabia, tive certas dificuldades mas consegui desenvolver bem o codigo.
 
 - O que tem dificuldade ainda?
+  Em resolver alguns problemas dos novos conteudos, mapas, herança, nessa questao em especifico, os calculos...
 
 
 - Quanto tempo levou pra fazer?
-
+  cerca de 4 horas
 
 
 
